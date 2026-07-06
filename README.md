@@ -315,7 +315,7 @@ Power BI Dashboard
 # Dashboard Snapshot (Page 2)
 
 
-![Dashboard 2](images/dashboard2.png)
+![Dashboard 2](https://github.com/HaRsH-KuMaR-eng/ai-powered-banking-transactions-dashboard/blob/41e672930764cd73af2ae5058eef13f2ae2dd1e0/dashboard2.png)
 
 ---
 
