@@ -308,15 +308,12 @@ Power BI Dashboard
 
 # Dashboard Snapshot (Page 1)
 
-> *(Insert Dashboard Screenshot Here)*
-
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](https://github.com/HaRsH-KuMaR-eng/ai-powered-banking-transactions-dashboard/blob/43379121c046161c7ebe9ea328abee659c880a73/DashBoard1.png)
 
 ---
 
 # Dashboard Snapshot (Page 2)
 
-> *(Insert Dashboard Screenshot Here)*
 
 ![Dashboard 2](images/dashboard2.png)
 
